@@ -1,1 +1,0 @@
-python mxtool/mx.py %*
