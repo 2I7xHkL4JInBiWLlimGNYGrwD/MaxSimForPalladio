@@ -6,7 +6,7 @@ library@JDK_TOOLS@optional=true
 library@JDK_XTOOLS@path=${JAVA_HOME}/lib/xtools.jar
 
 library@PROTOBUF@path=${HOME}/.maxine/protobuf-java-2.6.1.jar
-library@PROTOBUF@urls=http://repo2.maven.org/maven2/com/google/protobuf/protobuf-java/2.6.1/protobuf-java-2.6.1.jar
+library@PROTOBUF@urls=https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/2.6.1/protobuf-java-2.6.1.jar
 
 library@JUNIT@path=${HOME}/.maxine/junit-4.8.jar
 library@JUNIT@urls=https://repo1.maven.org/maven2/junit/junit/4.8/junit-4.8.jar
