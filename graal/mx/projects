@@ -6,10 +6,10 @@ library@JDK_TOOLS@path=${JAVA_HOME}/lib/tools.jar
 library@JDK_TOOLS@optional=true
 
 library@PROTOBUF@path=lib/protobuf-java-2.6.1.jar
-library@PROTOBUF@urls=https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/2.6.1/protobuf-java-2.6.1.jar
+library@PROTOBUF@urls=http://repo2.maven.org/maven2/com/google/protobuf/protobuf-java/2.6.1/protobuf-java-2.6.1.jar
 
 library@JUNIT@path=lib/junit-4.8.jar
-library@JUNIT@urls=https://repo1.maven.org/maven2/junit/junit/4.8/junit-4.8.jar
+library@JUNIT@urls=http://repo1.maven.org/maven2/junit/junit/4.8/junit-4.8.jar
 library@JUNIT@eclipse.container=org.eclipse.jdt.junit.JUNIT_CONTAINER/4
 
 library@CHECKSTYLE@path=lib/checkstyle-5.5-all.jar
